@@ -1,0 +1,198 @@
+[
+  {
+    "id": "drk_1793080540537_0rdmd",
+    "name": "Pandan Cold Foam Latte",
+    "category": "Specialty Fusion",
+    "price": 48.5,
+    "description": "Slow steeped cold brew topped with fragrant pandan leaf infused sweet cream foam.",
+    "tastingNotes": [
+      "Freshly Brewed"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "both",
+    "image": "/src/assets/images/hero_bigbrew_coffee_1793080056399.jpg",
+    "isSignature": false,
+    "isAvailable": true,
+    "caffeineLevel": "medium",
+    "createdAt": "2026-10-27T05:55:40.537Z"
+  },
+  {
+    "id": "drk_spanish_latte",
+    "name": "Spanish Sweet Latte",
+    "category": "Signature Espresso",
+    "price": 39,
+    "description": "Our #1 bestseller. Velvety steamed milk and condensed dulce sweetness topped with a double ristretto shot of our signature dark roast blend.",
+    "tastingNotes": [
+      "Sweet Condensed Cream",
+      "Caramelized Sugar",
+      "Dark Cocoa Finish"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "both",
+    "image": "/src/assets/images/drink_spanish_latte_1793080056309.jpg",
+    "isSignature": true,
+    "isAvailable": true,
+    "caffeineLevel": "high",
+    "createdAt": "2026-10-01T08:00:00.000Z"
+  },
+  {
+    "id": "drk_matcha_espresso",
+    "name": "Dirty Uji Matcha Fusion",
+    "category": "Specialty Fusion",
+    "price": 49,
+    "description": "Ceremonial grade Uji Japanese green matcha shaken with iced whole milk and crowned with a fresh layer of hot espresso crema.",
+    "tastingNotes": [
+      "Earthy Matcha",
+      "Creamy Milk",
+      "Bold Espresso Crema"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "iced",
+    "image": "/src/assets/images/drink_matcha_espresso_1793080057192.jpg",
+    "isSignature": true,
+    "isAvailable": true,
+    "caffeineLevel": "high",
+    "createdAt": "2026-10-02T08:00:00.000Z"
+  },
+  {
+    "id": "drk_brown_sugar_latte",
+    "name": "Muscovado Brown Sugar Latte",
+    "category": "Iced Specialties",
+    "price": 45,
+    "description": "Slow-simmered artisanal Philippine Muscovado syrup layered with fresh milk, iced espresso, and golden sugar crystal crunch.",
+    "tastingNotes": [
+      "Molasses Toffee",
+      "Warm Vanilla",
+      "Smoked Amber Roast"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "iced",
+    "image": "/src/assets/images/drink_brown_sugar_boba_1793080057482.jpg",
+    "isSignature": true,
+    "isAvailable": true,
+    "caffeineLevel": "medium",
+    "createdAt": "2026-10-03T08:00:00.000Z"
+  },
+  {
+    "id": "drk_dark_mocha",
+    "name": "Big Brew Dark Mocha Velvet",
+    "category": "Signature Espresso",
+    "price": 42,
+    "description": "Intense Dutch processed dark chocolate folded into rich full-bodied espresso and fresh velvety microfoam.",
+    "tastingNotes": [
+      "Dutch Cocoa",
+      "Dark Cherry",
+      "Roasted Hazelnut"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "both",
+    "image": "/src/assets/images/drink_spanish_latte_1793080056309.jpg",
+    "isSignature": true,
+    "isAvailable": true,
+    "caffeineLevel": "high",
+    "createdAt": "2026-10-04T08:00:00.000Z"
+  },
+  {
+    "id": "drk_salted_caramel",
+    "name": "Salted Caramel Macchiato",
+    "category": "Signature Espresso",
+    "price": 45,
+    "description": "Fresh milk infused with French vanilla, marked with intense espresso and cross-hatched with slow-cooked sea salt caramel.",
+    "tastingNotes": [
+      "Vanilla Bean",
+      "Sea Salt",
+      "Buttery Caramel"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "both",
+    "isSignature": true,
+    "image": "/src/assets/images/hero_bigbrew_coffee_1793080056399.jpg",
+    "isAvailable": true,
+    "caffeineLevel": "medium",
+    "createdAt": "2026-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "drk_cold_brew",
+    "name": "Slow Steeped Amber Cold Brew",
+    "category": "Cold Brew & Refreshers",
+    "price": 40,
+    "description": "Steeped for 18 hours in cold filtered mountain water. Ultra-smooth, naturally sweet, with ultra-low acidity and high caffeine punch.",
+    "tastingNotes": [
+      "Dark Chocolate",
+      "Nutmeg",
+      "Smooth Stone Fruit"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "iced",
+    "image": "/src/assets/images/craft_coffee_beans_1793080058148.jpg",
+    "isSignature": false,
+    "isAvailable": true,
+    "caffeineLevel": "high",
+    "createdAt": "2026-10-06T08:00:00.000Z"
+  },
+  {
+    "id": "drk_strawberry_latte",
+    "name": "Strawberry Cloud Latte",
+    "category": "Specialty Fusion",
+    "price": 48,
+    "description": "Real crushed strawberry compote topped with creamy farm milk and an optional light espresso float for the ultimate refreshing lift.",
+    "tastingNotes": [
+      "Wild Berry",
+      "Sweet Cream",
+      "Subtle Coffee Aroma"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "iced",
+    "image": "/src/assets/images/drink_brown_sugar_boba_1793080057482.jpg",
+    "isSignature": false,
+    "isAvailable": true,
+    "caffeineLevel": "low",
+    "createdAt": "2026-10-07T08:00:00.000Z"
+  },
+  {
+    "id": "drk_white_choco",
+    "name": "Kape Tisoy (White Choco Espresso)",
+    "category": "Signature Espresso",
+    "price": 42,
+    "description": "The Big Brew crowd-favorite White Chocolate espresso blend. Smooth creamy sweetness paired with freshly ground robusta beans.",
+    "tastingNotes": [
+      "Creamy White Chocolate",
+      "Warm Malt",
+      "Bold Robusta"
+    ],
+    "sizes": [
+      "Grande 16oz",
+      "Venti 22oz"
+    ],
+    "temperature": "both",
+    "image": "/src/assets/images/hero_bigbrew_coffee_1793080056399.jpg",
+    "isSignature": true,
+    "isAvailable": true,
+    "caffeineLevel": "high",
+    "createdAt": "2026-10-08T08:00:00.000Z"
+  }
+]

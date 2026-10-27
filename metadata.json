@@ -1,0 +1,6 @@
+{
+  "name": "Big Brew Coffee Shop",
+  "description": "Showcase of Big Brew handcrafted signature drinks with customer portal and manager live menu CRUD management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
