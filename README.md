@@ -7,6 +7,8 @@ A modern, responsive web application for **Big Brew Coffee Shop**, showcasing ha
 ## 1. Business Name & Description
 
 **Business Name:** Big Brew Coffee Shop  
+**Official Website:** [https://bigbrew.com](https://bigbrew.com)  
+**Preview Deployment:** [https://ais-pre-2jsycnjoox2e2jqjywqt3k-638227821281.asia-east1.run.app](https://ais-pre-2jsycnjoox2e2jqjywqt3k-638227821281.asia-east1.run.app)  
 **Brand Identity:** Artisanal, accessible Filipino specialty coffee brand celebrated for freshly pulled espresso shots, signature sweet iced creations (such as our iconic *Spanish Sweet Latte*, *Muscovado Brown Sugar Latte*, and *Dirty Uji Matcha Fusion*), starting at just **₱39.00**.
 
 Big Brew bridges the gap between commercial mass-market instant coffee and expensive luxury cafes, delivering freshly pulled espresso from Benguet and Cavite highland beans at everyday neighborhood prices.

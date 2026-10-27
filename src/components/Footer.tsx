@@ -100,7 +100,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenAuth, onNavigateSection })
         {/* Bottom bar */}
         <div className="pt-6 border-t border-stone-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-stone-500">
           <div>
-            © {new Date().getFullYear()} Big Brew Coffee Shop Co. All rights reserved.
+            © {new Date().getFullYear()} Big Brew Coffee Shop Co. · <a href="https://bigbrew.com" className="text-stone-400 hover:text-amber-400 transition-colors">bigbrew.com</a>
           </div>
           <div className="flex items-center gap-4">
             <span>Fresh beans roasted daily</span>
